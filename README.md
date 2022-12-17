@@ -1,8 +1,14 @@
 # google_map_test_task
 
-A new Flutter project.
+Showcase 
+
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/VIDEO_ID](https://youtube.com/shorts/aUQRupSIlPU)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Getting Started
+
+If you want to run this project you need to define Api key for Google map.  in the project folder inside this file -> ios/Runner/AppDelegate.swift 
+
+    GMSServices.provideAPIKey("YOUR_API_KEY")
 
 This project is a starting point for a Flutter application.
 
