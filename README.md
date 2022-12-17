@@ -2,7 +2,7 @@
 
 Showcase 
 
-[![Showcase](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![Showcase](https://img.youtube.com/vi/aUQRupSIlPU/0.jpg)](https://www.youtube.com/shorts/aUQRupSIlPU)
 
 ## Getting Started
 
