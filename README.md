@@ -2,7 +2,7 @@
 
 Showcase 
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/VIDEO_ID](https://youtube.com/shorts/aUQRupSIlPU)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Showcase](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 ## Getting Started
 
